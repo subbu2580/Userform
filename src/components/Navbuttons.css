@@ -1,0 +1,19 @@
+.nav-button {
+    background-color:green;
+    color: rgb(227, 235, 238); 
+    border: none; 
+    padding: 10px 20px;
+    margin: 5px; 
+    cursor: pointer; 
+    font-size: 25px; 
+    border-radius: 5px; 
+  }
+  
+  .nav-button:hover {
+    background-color: #1b2b3c; 
+  }
+  .button{
+    text-align: center;
+    margin-top: 100px;
+  }
+  
